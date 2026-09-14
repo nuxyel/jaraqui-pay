@@ -4,9 +4,9 @@ Material oficial para a apresentação do projeto acadêmico de Governança, Ges
 
 ## O que é a Jaraqui Pay
 
-Uma fintech brasileira fictícia para startups e SaaS. A proposta reúne Pix, boleto e cartão em uma única API, com webhooks, ledger próprio e rastreabilidade até o banco liquidante.
+Uma fintech brasileira fictícia para startups e SaaS. Reunimos Pix, boleto e cartão em uma única API, com webhooks, ledger próprio e rastreabilidade até o banco liquidante.
 
-O protótipo usa dados simulados. Não movimenta dinheiro real e não afirma autorização própria do Banco Central.
+O protótipo usa dados simulados, não movimenta dinheiro real e não afirma autorização do Banco Central.
 
 ## Arquivos
 

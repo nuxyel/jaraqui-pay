@@ -8,12 +8,12 @@ Protótipo navegável de uma infraestrutura de pagamentos para startups e SaaS b
 
 > **Trabalho acadêmico — Sistemas de Informação, 2026**
 
-Este projeto é uma demonstração fictícia criada para a disciplina de Governança, Gestão de Riscos e Integridade. A Jaraqui Pay não movimenta dinheiro real, não processa pagamentos reais e não representa uma instituição autorizada pelo Banco Central.
+Fizemos este projeto para a disciplina de Governança, Gestão de Riscos e Integridade. A Jaraqui Pay não movimenta dinheiro real, não processa pagamentos reais e não representa uma instituição autorizada pelo Banco Central.
 
-## O que o protótipo demonstra
+## O que dá pra ver no protótipo
 
 - Landing page com posicionamento, console de API e fluxo do pagamento;
-- Login demonstrativo sem cadastro;
+- Login demonstrativo, sem cadastro;
 - Dashboard com saldo, liquidação, aprovação, transações e alertas;
 - Transações Pix, boleto e cartão com estados simulados;
 - Cobranças e QR Code Pix fictícios;
@@ -23,7 +23,7 @@ Este projeto é uma demonstração fictícia criada para a disciplina de Governa
 - Cartão empresarial demonstrativo;
 - Segurança, riscos e controles da operação.
 
-Todos os dados exibidos são fictícios e mantidos em estado local do navegador. Não há backend financeiro, integração com PSP, banco, cartão, Pix ou qualquer serviço de movimentação de valores.
+Os dados exibidos são fictícios e ficam salvos apenas no navegador. Não existe backend financeiro nem integração real com PSP, banco, cartão ou Pix.
 
 ## Como executar
 
@@ -52,9 +52,9 @@ npm run start
 
 ## Escopo acadêmico
 
-O protótipo acompanha o relatório de análise de riscos do projeto. A arquitetura visual distingue API, PSP, ledger próprio e banco liquidante para apoiar a discussão sobre integridade, disponibilidade, conciliação, webhooks, proteção de dados e dependências operacionais.
+O protótipo acompanha o relatório de análise de riscos do projeto. Separamos visualmente API, PSP, ledger próprio e banco liquidante para facilitar a discussão sobre integridade, disponibilidade, conciliação, webhooks, proteção de dados e dependências operacionais.
 
-O ledger próprio é uma decisão conceitual do cenário: reduz a dependência de um ledger terceirizado, mas aumenta a responsabilidade da Jaraqui Pay sobre consistência, concorrência, auditoria, backup, recuperação e reconciliação.
+Optamos por um ledger próprio no cenário: isso reduz a dependência de um ledger terceirizado, mas joga pra Jaraqui Pay a responsabilidade sobre consistência, concorrência, auditoria, backup, recuperação e reconciliação.
 
 ## Media kit
 
@@ -63,7 +63,7 @@ O ledger próprio é uma decisão conceitual do cenário: reduz a dependência d
   <img src="./mediakit/assets/reconciliation-real.png" alt="Conciliação Jaraqui Pay" width="48%">
 </p>
 
-Logos, paleta de cores, tipografia, mensagens aprovadas e roteiro de apresentação estão disponíveis em [`mediakit/`](./mediakit).
+Logos, paleta de cores, tipografia, mensagens aprovadas e roteiro de apresentação estão em [`mediakit/`](./mediakit).
 
 ## Equipe
 

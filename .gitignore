@@ -9,7 +9,6 @@ dist/
 .env.*
 !.env.example
 .openai/
-mediakit/
 mediakit.zip
 qa-*/
 *.doc

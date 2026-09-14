@@ -1,0 +1,12 @@
+<svg width="640" height="160" viewBox="0 0 640 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Jaraqui Pay</title>
+  <rect width="640" height="160" rx="24" fill="#F6F7F5"/>
+  <g transform="translate(35 44)">
+    <path d="M5.5 36C14 20.8 32 15 48.2 23.1L66 14.8 60.2 35.9 66 57.2 48.2 48.9C32 57 14 51.2 5.5 36Z" fill="#111936"/>
+    <path d="M14.3 34.2C22.2 29.4 32.5 29.9 38.9 35.4C42.8 38.8 41.8 45.9 36.8 47.9C31.4 49.9 24.7 47.6 23 42.5" stroke="#6847F5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14.8 39.4C19 42.2 24 43.3 28.9 42.1" stroke="#0FA89A" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="20" cy="29" r="3.3" fill="#0FA89A"/>
+  </g>
+  <text x="135" y="100" fill="#111936" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Jaraqui</text>
+  <text x="375" y="100" fill="#6847F5" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Pay</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Marca Jaraqui Pay</title>
+  <rect width="240" height="240" rx="48" fill="#111936"/>
+  <path d="M41 120C66.5 74.4 120.5 57 169.1 81.3L222 56.4 204.6 119.7 222 183.6 169.1 158.7C120.5 183 66.5 165.6 41 120Z" fill="#FFFFFF"/>
+  <path d="M67.4 114.6C91.1 100.2 122 101.7 141.2 118.2C152.9 128.4 149.9 149.7 134.8 155.7C118.6 161.7 95.1 154.8 90 139.6" stroke="#6847F5" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M68.9 130.2C81.5 138.6 96.5 141.9 111.2 138.3" stroke="#7CE7D6" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="84" cy="99" r="9.9" fill="#7CE7D6"/>
+</svg>

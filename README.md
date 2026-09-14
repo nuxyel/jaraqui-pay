@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./mediakit/assets/logo-horizontal.svg" alt="Jaraqui Pay" width="360">
+</p>
+
 # Jaraqui Pay
 
 Protótipo navegável de uma infraestrutura de pagamentos para startups e SaaS brasileiros.
@@ -51,6 +55,15 @@ npm run start
 O protótipo acompanha o relatório de análise de riscos do projeto. A arquitetura visual distingue API, PSP, ledger próprio e banco liquidante para apoiar a discussão sobre integridade, disponibilidade, conciliação, webhooks, proteção de dados e dependências operacionais.
 
 O ledger próprio é uma decisão conceitual do cenário: reduz a dependência de um ledger terceirizado, mas aumenta a responsabilidade da Jaraqui Pay sobre consistência, concorrência, auditoria, backup, recuperação e reconciliação.
+
+## Media kit
+
+<p align="center">
+  <img src="./mediakit/assets/dashboard-real.png" alt="Dashboard Jaraqui Pay" width="48%">
+  <img src="./mediakit/assets/reconciliation-real.png" alt="Conciliação Jaraqui Pay" width="48%">
+</p>
+
+Logos, paleta de cores, tipografia, mensagens aprovadas e roteiro de apresentação estão disponíveis em [`mediakit/`](./mediakit).
 
 ## Equipe
 
